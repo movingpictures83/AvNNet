@@ -1,0 +1,2 @@
+# AvNNet
+Averaged Neural Network
