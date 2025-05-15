@@ -1,0 +1,2 @@
+Prefix plugins/AvNNet/example/
+Plugin AvNNet inputfile parameters.train.txt outputfile output.rds
